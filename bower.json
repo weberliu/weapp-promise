@@ -1,0 +1,33 @@
+{
+  "name": "weapp-promise",
+  "description": "使微信小程序以及腾讯云小程序方案的 SDK 支持 Promise",
+  "main": "index.js",
+  "authors": [
+    "Weber Liu"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "qcloud",
+    "promise",
+    "weapp",
+    "wechat",
+    "sdk",
+    "client",
+    "auth",
+    "websocket"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "typings.json",
+    "jsconfig.json",
+    "package.json",
+    ".npmignore",
+    ".travis.yml",
+    ".gitignore"
+  ]
+}
