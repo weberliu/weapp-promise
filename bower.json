@@ -29,5 +29,8 @@
     ".npmignore",
     ".travis.yml",
     ".gitignore"
-  ]
+  ],
+  "dependencies": {
+    "wafer-client-sdk": "qcloud-weapp-client-sdk#^0.8.4"
+  }
 }
