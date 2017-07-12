@@ -31,6 +31,6 @@
     ".gitignore"
   ],
   "dependencies": {
-    "wafer-client-sdk": "qcloud-weapp-client-sdk#^0.8.4"
+    "wafer-client-sdk": "^0.8.4"
   }
 }
