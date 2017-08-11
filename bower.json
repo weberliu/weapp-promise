@@ -16,7 +16,7 @@
     "auth",
     "websocket"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/weberliu/weapp-promise",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -32,5 +32,15 @@
   ],
   "dependencies": {
     "wafer-client-sdk": "^0.8.4"
-  }
+  },
+  "_release": "c948ecd708",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c948ecd7083c5dc94d051a200de1c5a277a76a9b"
+  },
+  "_source": "https://github.com/weberliu/weapp-promise.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/weberliu/weapp-promise.git",
+  "_direct": true
 }
