@@ -1,4 +1,5 @@
-import wx from 'lib/weapp-promise'
-import qcloud from 'lib/qcloud-promise'
+'use strict'
 
-export { wx, qcloud }
+module.exports.wx = require('./lib/weapp-promise')
+module.exports.qcloud = require('./lib/qcloud-promise')
+module.exports.Tunnel = require('./lib/tunnel')
